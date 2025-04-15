@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import type { Meta, StoryObj } from '@storybook/react';
-import Modal, { ModalProps } from './Modal';
+import Modal from './Modal';
 import { useArgs } from '@storybook/preview-api';
 import './Modal.css'
 
