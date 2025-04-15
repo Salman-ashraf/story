@@ -22,7 +22,7 @@ function App() {
   };
 
   const openStorybook = () => {
-    window.open('http://localhost:6006', '_blank');
+    window.open('https://story-gules-two.vercel.app', '_blank');
   };
 
   return (
